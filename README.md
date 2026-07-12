@@ -1,1 +1,1 @@
-# Trail-repo
+This is a trail repository.
